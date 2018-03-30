@@ -12,7 +12,7 @@ Waste of time? Maybe. Boring? Of course not.
 - [Operating systems](#OS)
 - [Applications](#Applications)
 - [Languages](#Languages)
-- [Tools](#tools)
+- [Tools](#Tools)
 - [Databases](#Databases)
 - [Misc](#misc)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -25,14 +25,15 @@ Waste of time? Maybe. Boring? Of course not.
 *Operating systems, distros, window-managers etc.*
 
 * [Linux](http://isc.tamu.edu/~lewing/linux/) - Linux is the best-known and most-used open source operating system.
- - [Arch Linux](https://sources.archlinux.org/other/artwork/)
- - [Fedora](https://fedoraproject.org/wiki/Logo)
- - [Kali](https://www.kali.org/trademark-policy/)
- - [Ubuntu](https://design.ubuntu.com/brand/ubuntu-logo/)
- - [KDE](https://commons.wikimedia.org/wiki/File:KDE_logo.svg) - K Desktop Environment
- - [Gnome](https://www.gnome.org/logo-and-trademarks/) - GNOME desktop environment
-* [FreeBSD](https://www.freebsdfoundation.org/wp-content/uploads/2016/05/FreeBSDLogoArchive.zip) - FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms.
+  - [Arch Linux](https://sources.archlinux.org/other/artwork/)
+  - [Fedora](https://fedoraproject.org/wiki/Logo)
+  - [Kali](https://www.kali.org/trademark-policy/)
+  - [Ubuntu](https://design.ubuntu.com/brand/ubuntu-logo/)
+  - [KDE](https://commons.wikimedia.org/wiki/File:KDE_logo.svg) - K Desktop Environment
+  - [Gnome](https://www.gnome.org/logo-and-trademarks/) - GNOME desktop environment
+* [FreeBSD](https://www.freebsdfoundation.org/wp-content/uploads/2016/05/FreeBSDLogoArchive.zip) - an operating system used to power modern servers, desktops, and embedded platforms.
 * [Android](https://developer.android.com/distribute/marketing-tools/brand-guidelines.html)
+  - [LineageOS](https://github.com/LineageOS/lineage_wiki/tree/master/images) - an operating system for smartphones and tablet computers, based on Android; successor of CyanogenMod.
 
 ## Applications
 
@@ -53,12 +54,22 @@ Waste of time? Maybe. Boring? Of course not.
 * [Ruby]()
   - [Rails]()
 * [Go]()
-* [Java]()
-  * []()
-  * []()
-  * []()
-* [Swift]()
-* [Rust]()
+* [Java](http://www.oracle.com/us/technologies/java/java-licensing-logo-guidelines-1908204.pdf)
+  * [Tomcat](https://commons.wikimedia.org/wiki/File:Tomcat-logo.svg)
+  * [Jenkins](https://wiki.jenkins.io/display/JENKINS/Logo)
+  * [eclipse](https://www.eclipse.org/artwork/)
+* [Swift](https://developer.apple.com/swift/downloads/swift-logo.zip)
+* [Rust](https://www.rust-lang.org/en-US/legal.html)
+
+## Tools
+
+## Databases
+ * [PostgreSQL](https://wiki.postgresql.org/wiki/Logo)
+ * [MySQL](https://www.mysql.com/about/legal/logos.html)
+ * [InfluxDB](https://influxdata.github.io/branding/logo/downloads/)
+ * [Graphite](https://github.com/graphite-project/graphite-project.github.io/tree/master/img)
+ * [SQLite](https://commons.wikimedia.org/wiki/File:SQLite370.svg)
+ * [MariaDB](https://mariadb.org/about/logos/)
 
 ## Misc
 

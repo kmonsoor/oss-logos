@@ -50,7 +50,7 @@ Waste of time? Maybe. Boring? Of course not.
   - [Angular]()
   - [Vue]()
   - [Electron]()
-* [Node.js]()
+* [Node.js](https://github.com/nodejs/nodejs.org/tree/master/static/images)
 * [Ruby]()
   - [Rails]()
 * [Go]()
